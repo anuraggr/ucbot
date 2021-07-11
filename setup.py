@@ -27,6 +27,12 @@ setuptools.setup(
         "python-dotenv",
         "PyNaCl",
         "dnspython",
+        "time",
+        "discord.ext",
+        "praw",
+        "random",
+        "asyncio",
+        "datetime as datetime",
     ],
     python_requires='>=3.6',
 )
