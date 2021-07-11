@@ -32,7 +32,7 @@ setuptools.setup(
         "praw",
         "random",
         "asyncio",
-        "datetime as datetime",
+        "datetime",
     ],
     python_requires='>=3.6',
 )
